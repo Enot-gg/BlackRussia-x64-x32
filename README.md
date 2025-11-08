@@ -1,2 +1,2 @@
 # BlackRussia-x64-x32
-BlackRussia client  with support arm64-v8a
+A very unstable replacement client for Black Russia with support for 64-bit architecture
